@@ -1,0 +1,14 @@
+{
+    "rocket": {
+        "name": "Estes' Long Ranger w/ C6-5",
+        "length": 0.0658,
+        "diameter": 0.024,
+        "dry_weight": 0.0048,
+        "engine_weight": 0.0241,
+        "propellent_weight": 0.0122,
+        "duration": 1.6,
+        "thrust_curve_rasp": "./config/thrust_curve/Estes_C6.eng"
+    },
+    "gravity": 9.80665,
+    "air_density": 1.225
+}
